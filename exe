@@ -1,4 +1,4 @@
 #!/bin/bash
-g++ huffman.cpp -o exe_huffman -O0 -ggdb
+g++ huffman.cpp -o exe_huffman -O0 -ggdb3
 ./exe_huffman
 
